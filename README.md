@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Pranav N.
+# Nagpranav
 
 ### Software Engineer | Backend · Full-Stack · Agentic AI
 
