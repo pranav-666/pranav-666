@@ -31,12 +31,6 @@ An evidence-backed operational intelligence platform combining a React dashboard
 
 **Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · RAG · MCP
 
-### [Stego-Malware Detection](https://github.com/pranav-666/Stegananlysis-Embedded-malware)
-
-A security-focused project exploring steganography detection, payload extraction, XOR analysis, and malware-signature scanning.
-
-**Tech:** Python · Deep Learning · Image Processing · Security
-
 ## Technical toolkit
 
 | Area | Technologies |
